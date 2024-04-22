@@ -1,5 +1,5 @@
 blueprint:
-    name: Philips Hue Tap Dial Switch for Lighting
+    name: Philips Hue Tap Dial Switch
     description: Control lights with a Philips Hue Tap Dial (RDM002) connected via ZHA. Run custom lighting actions with the four buttons, and dim the most recently used light(s) using the dial.
     domain: automation
     input:
